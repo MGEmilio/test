@@ -1,0 +1,23 @@
+.card {
+  border: 1px solid;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px;
+  margin: 10px;
+  max-width: 250px;
+  display: inline-block;
+  text-align: center;
+}
+.card .card-image{
+  width: 100px;
+  border-radius: 10px;
+  float: left;
+  margin-right: 10px;
+  padding: 20px;
+}
+.perfil {
+  font-family: Arial, Helvetica, sans-serif;
+  border: 1px solid #000000;
+}
+.perfil p{
+  margin: 1;
+}
